@@ -6,7 +6,7 @@ These challenges are presented in the following groups:
 * [String 1](https://codingbat.com/python/String-1)
 * [List 1](https://codingbat.com/python/List-1)
 * [Logic 1](https://codingbat.com/python/Logic-1)
-* [Logic 2](https://codingbat.com/python/Logic-1)
+* [Logic 2](https://codingbat.com/python/Logic-2)
 * [String 2](https://codingbat.com/python/String-2)
 * [List 2](https://codingbat.com/python/List-2)
 
