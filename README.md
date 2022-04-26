@@ -12,7 +12,7 @@ These challenges are presented in the following groups:
 
 <img src="https://user-images.githubusercontent.com/12957404/165395789-eb090f9d-121c-447c-913f-982c091642ba.png" height="250" />
 
-There are several coding problems within each category and solutions for each is written in Jupyter Notebook.\
+There are several coding problems within each category and solutions for each are written in the corresponding Jupyter Notebook.\
 I hope you'll enjoy solving them.
 
 Take care, \
