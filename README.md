@@ -10,7 +10,7 @@ These challenges are presented in the following groups:
 * [String 2](https://codingbat.com/python/String-2)
 * [List 2](https://codingbat.com/python/List-2)
 
-![image](https://user-images.githubusercontent.com/12957404/165395789-eb090f9d-121c-447c-913f-982c091642ba.png)
+![image](https://user-images.githubusercontent.com/12957404/165395789-eb090f9d-121c-447c-913f-982c091642ba.png =250x)
 
 There are several coding problems within each category and solutions for each is written in Jupyter Notebook.\
 I hope you'll enjoy solving them.
